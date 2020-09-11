@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Dillon Dugan Personal site', // <title>
+  siteTitle: 'Dillon Dugan\'s Personal Site', // <title>
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -26,6 +26,16 @@ module.exports = {
       icon: 'fa-facebook',
       name: 'Facebook',
       url: 'https://facebook.com/dillon.dugan',
+    },
+    {
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/dillon-dugan/',
+    },
+    {
+      icon: 'fa-battery-full',
+      name: 'Electric Vette Blog',
+      url: 'https://www.electricvette.blog',
     },
     {
       icon: 'fa-envelope-o',
