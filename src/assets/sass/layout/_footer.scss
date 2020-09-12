@@ -10,7 +10,7 @@
 		@include vendor('align-self', 'flex-end');
 		width: 100%;
 		padding: _size(element-margin) 0 0 0;
-		color: rgba(255,255,255,0.75);
+		color: rgba(0, 0, 0, 0.75);
 		cursor: default;
 		text-align: center;
 
@@ -18,13 +18,14 @@
 			margin: 0;
 			padding: 0;
 			font-size: 0.9em;
+			font-weight: bold;
 			list-style: none;
 
 			li {
 				display: inline-block;
 				margin: 0 0 0 (0.85em - (_size(letter-spacing) * 2));
 				padding: 0 0 0 0.85em;
-				border-left: solid _size(border-width) rgba(255,255,255,0.5);
+				border-left: solid _size(border-width) rgba(0, 0, 0, 0.5);
 				line-height: 1;
 
 				&:first-child {

@@ -33,7 +33,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/dillon-dugan/',
     },
     {
-      icon: 'fa-battery-full',
+      icon: 'fa-bolt',
       name: 'Electric Vette Blog',
       url: 'https://www.electricvette.blog',
     },
