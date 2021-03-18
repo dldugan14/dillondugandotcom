@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dillondugan.com
+Token: 4fbf27e40575c857afef2340e61af9e069e493bf202ad495bc3fa7d384f06ff0
