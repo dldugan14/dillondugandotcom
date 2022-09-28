@@ -23,19 +23,9 @@ module.exports = {
       url: 'https://twitter.com/clumsychemist',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/dillon.dugan',
-    },
-    {
       icon: 'fa-linkedin',
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/dillon-dugan/',
-    },
-    {
-      icon: 'fa-bolt',
-      name: 'Electric Vette Blog',
-      url: 'https://www.electricvette.blog',
     },
     {
       icon: 'fa-envelope-o',
